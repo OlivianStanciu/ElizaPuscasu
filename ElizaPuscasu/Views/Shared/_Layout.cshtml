@@ -1,0 +1,177 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <title>@ViewData["Title"] - ElizaPuscasu</title>
+
+	<meta name="description" content="ElizaPuscasu.ro" />
+	<meta name="keywords" content="bootstrap, bootstrap4" />
+
+	@*Theme*@
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Source+Serif+Pro:wght@400;700&display=swap" rel="stylesheet">
+
+	<link rel="stylesheet" href="~/theme/css/bootstrap.min.css" />
+	<link rel="stylesheet" href="~/theme/css/owl.carousel.min.css" />
+	<link rel="stylesheet" href="~/theme/css/owl.theme.default.min.css" />
+	<link rel="stylesheet" href="~/theme/css/jquery.fancybox.min.css" />
+	<link rel="stylesheet" href="~/theme/fonts/icomoon/style.css" />
+	<link rel="stylesheet" href="~/theme/fonts/flaticon/font/flaticon.css" />
+	<link rel="stylesheet" href="~/theme/css/daterangepicker.css" />
+	<link rel="stylesheet" href="~/theme/css/aos.css" />
+	<link rel="stylesheet" href="~/theme/css/style.css" />
+
+	@*Site*@
+	<link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+	<link rel="stylesheet" href="~/img/site.css" asp-append-version="true" />
+</head>
+
+<body>
+    <header>
+		<div class="site-mobile-menu site-navbar-target">
+			<div class="site-mobile-menu-header">
+				<div class="site-mobile-menu-close">
+					<span class="icofont-close js-menu-toggle"></span>
+				</div>
+			</div>
+			<div class="site-mobile-menu-body"></div>
+		</div>
+
+		<nav class="site-nav">
+			<div class="container">
+				<div class="site-navigation">
+					<partial name="_LoginPartial" />
+					<a href="index.html" class="logo m-0 text-decoration-none">Eliza Pușcașu</a>
+
+					<ul class="js-clone-nav d-none d-lg-inline-block text-left site-menu float-right">
+						<li class="active">
+							<a asp-area="" asp-controller="Home" asp-action="Index">Acasă</a>
+						</li>
+						<li>
+							<a asp-area="" asp-controller="Home" asp-action="About">Despre mine</a>
+						</li>
+						<li class="">
+							<a asp-area="" asp-controller="Home" asp-action="Error">Portofoliu [WIP]</a>
+						</li>
+						<li class="">
+							<a asp-area="" asp-controller="Home" asp-action="Contact">Contact</a>
+						</li>
+						<li class="">
+							<a asp-area="" asp-controller="Home" asp-action="Error">Shop [WIP]</a>
+						</li>
+					</ul>
+
+					<a href="#" class="burger ml-auto float-right site-menu-toggle js-menu-toggle d-inline-block d-lg-none light" data-toggle="collapse" data-target="#main-navbar">
+						<span></span>
+					</a>
+
+				</div>
+			</div>
+		</nav>
+    </header>
+
+    <div>
+		@RenderBody()
+    </div>
+
+	<div class="py-5 cta-section">
+		<div class="container">
+			<div class="row text-center">
+				<div class="col-md-12">
+					<h2 class="mb-2 text-white">Eliza Pușcașu Art & Design</h2>
+					<p class="mb-4 lead text-white text-white-opacity">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, fugit?</p>
+					<p class="mb-0"><a href="booking.html" class="btn btn-outline-white text-white btn-md font-weight-bold">Contactează-ne</a></p>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="site-footer">
+		<div class="inner first">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-6 col-lg-4 text-center">
+						<div class="widget">
+							<ul class="list-unstyled social">
+								<li><a href="https://www.instagram.com/eliza.puscasu/" target="_blank"><span class="icon-instagram"></span></a></li>
+								<li><a href="https://www.facebook.com/eliza.puscasu05" target="_blank"><span class="icon-facebook"></span></a></li>
+								<li><a href="https://ro.pinterest.com/elizapuscasu05/" target="_blank"><span class="icon-pinterest"></span></a></li>
+								<li><a href="mailto:eliza.stanciu05@gmail.com" target="_blank"><span class="icon-google"></span></a></li>
+							</ul>
+						</div>
+					</div>
+					<div class="col-md-6 col-lg-2 pl-lg-5 text-center">
+						<div class="widget">
+							<h3 class="heading font-weight-bold">Pagini</h3>
+							<ul class="links list-unstyled">
+								<li><a href="#">Blog</a></li>
+								<li><a href="#">About</a></li>
+								<li><a href="#">Contact</a></li>
+							</ul>
+						</div>
+					</div>
+					<div class="col-md-6 col-lg-2 text-center">
+						<div class="widget">
+							<h3 class="heading font-weight-bold">Resurse</h3>
+							<ul class="links list-unstyled">
+								<li><a href="#">Blog</a></li>
+								<li><a href="#">About</a></li>
+								<li><a href="#">Contact</a></li>
+							</ul>
+						</div>
+					</div>
+					<div class="col-md-6 col-lg-4 text-center">
+						<div class="widget">
+							<h3 class="heading font-weight-bold">Contact</h3>
+							<ul class="list-unstyled quick-info links">
+								<li><a href="mailto:eliza.stanciu05@gmail.com">✉️ eliza.stanciu05@gmail.com</a></li>
+								<li><a href="#">📞 0748384545</a></li>
+								<li><a href="https://www.google.com/maps/place/Strada+S%C3%A2nnicoar%C4%83,+Cluj-Napoca" target="_blank">📍Sannicoara, Cluj-Napoca</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+
+
+		<div class="inner dark">
+			<div class="container">
+				<div class="row text-center">
+					<div class="col-md-8 mb-3 mb-md-0 mx-auto">
+						<p>
+							Acest site și conținutul sunt protejate de drepturi de autor ce aparțin PUȘCAȘU ELIZA PFA. Orice download și/sau reproducere parțială sau totală sunt interzise. Cu excepția situației în care aveți acordul scris, descărcarea, copierea și/sau orice altă formă de exploatare în scop comercial și/sau în scop de promovare a unui brand, activități, companii sau orice altă organizație sunt interzise. © Eliza Puscasu 2023 Toate drepturile rezervate.
+						</p>
+					</div>
+
+				</div>
+			</div>
+		</div>
+	</div>
+
+	@*Theme*@
+	<script src="~/theme/js/jquery-3.4.1.min.js"></script>
+	<script src="~/theme/js/popper.min.js"></script>
+	<script src="~/theme/js/bootstrap.min.js"></script>
+	<script src="~/theme/js/owl.carousel.min.js"></script>
+	<script src="~/theme/js/jquery.animateNumber.min.js"></script>
+	<script src="~/theme/js/jquery.waypoints.min.js"></script>
+	<script src="~/theme/js/jquery.fancybox.min.js"></script>
+	<script src="~/theme/js/aos.js"></script>
+	<script src="~/theme/js/moment.min.js"></script>
+	<script src="~/theme/js/daterangepicker.js"></script>
+
+	<script src="~/theme/js/typed.js"></script>
+	<script src="~/theme/js/custom.js"></script>
+
+	@*Site*@
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

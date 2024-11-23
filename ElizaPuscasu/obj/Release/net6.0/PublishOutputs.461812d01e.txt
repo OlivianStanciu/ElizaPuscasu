@@ -1,0 +1,7 @@
+C:\Users\Olivian\source\repos\ElizaPuscasu\ElizaPuscasu\obj\Release\net6.0\PubTmp\Out\ElizaPuscasu.exe
+C:\Users\Olivian\source\repos\ElizaPuscasu\ElizaPuscasu\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Olivian\source\repos\ElizaPuscasu\ElizaPuscasu\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\Olivian\source\repos\ElizaPuscasu\ElizaPuscasu\obj\Release\net6.0\PubTmp\Out\ElizaPuscasu.dll
+C:\Users\Olivian\source\repos\ElizaPuscasu\ElizaPuscasu\obj\Release\net6.0\PubTmp\Out\ElizaPuscasu.deps.json
+C:\Users\Olivian\source\repos\ElizaPuscasu\ElizaPuscasu\obj\Release\net6.0\PubTmp\Out\ElizaPuscasu.runtimeconfig.json
+C:\Users\Olivian\source\repos\ElizaPuscasu\ElizaPuscasu\obj\Release\net6.0\PubTmp\Out\ElizaPuscasu.pdb

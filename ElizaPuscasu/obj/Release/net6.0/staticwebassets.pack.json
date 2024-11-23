@@ -1,0 +1,645 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\obj\\Release\\net6.0\\scopedcss\\projectbundle\\ElizaPuscasu.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ElizaPuscasu.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\img\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\img\\home\\index\\contact.svg",
+      "PackagePath": "staticwebassets\\img\\home\\index\\contact.svg"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\img\\home\\index\\my_gift.png",
+      "PackagePath": "staticwebassets\\img\\home\\index\\my_gift.png"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\img\\home\\index\\portofoliu.png",
+      "PackagePath": "staticwebassets\\img\\home\\index\\portofoliu.png"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\img\\home\\index\\poza_sub_descriere.jpg",
+      "PackagePath": "staticwebassets\\img\\home\\index\\poza_sub_descriere.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\img\\home\\index\\shop.png",
+      "PackagePath": "staticwebassets\\img\\home\\index\\shop.png"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\img\\home\\index\\user.png",
+      "PackagePath": "staticwebassets\\img\\home\\index\\user.png"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\img\\landing\\hero-slider-1.jpg",
+      "PackagePath": "staticwebassets\\img\\landing\\hero-slider-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\img\\landing\\hero-slider-2.jpg",
+      "PackagePath": "staticwebassets\\img\\landing\\hero-slider-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\img\\landing\\hero-slider-3.jpg",
+      "PackagePath": "staticwebassets\\img\\landing\\hero-slider-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\img\\landing\\hero-slider-4.jpg",
+      "PackagePath": "staticwebassets\\img\\landing\\hero-slider-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\img\\landing\\hero-slider-5.jpg",
+      "PackagePath": "staticwebassets\\img\\landing\\hero-slider-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\lib\\3.jpg",
+      "PackagePath": "staticwebassets\\lib\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\css\\_mixins.css",
+      "PackagePath": "staticwebassets\\theme\\css\\_mixins.css"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\css\\_site-blocks.css",
+      "PackagePath": "staticwebassets\\theme\\css\\_site-blocks.css"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\css\\aos.css",
+      "PackagePath": "staticwebassets\\theme\\css\\aos.css"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\theme\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\css\\daterangepicker.css",
+      "PackagePath": "staticwebassets\\theme\\css\\daterangepicker.css"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\css\\index.html",
+      "PackagePath": "staticwebassets\\theme\\css\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\css\\jquery.fancybox.min.css",
+      "PackagePath": "staticwebassets\\theme\\css\\jquery.fancybox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\css\\mixins\\_background-variant.css",
+      "PackagePath": "staticwebassets\\theme\\css\\mixins\\_background-variant.css"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\css\\mixins\\_deprecate.css",
+      "PackagePath": "staticwebassets\\theme\\css\\mixins\\_deprecate.css"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\css\\mixins\\_resize.css",
+      "PackagePath": "staticwebassets\\theme\\css\\mixins\\_resize.css"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\theme\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\css\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\theme\\css\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\css\\style.css",
+      "PackagePath": "staticwebassets\\theme\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\css\\vendor\\_rfs.css",
+      "PackagePath": "staticwebassets\\theme\\css\\vendor\\_rfs.css"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\fonts\\flaticon\\backup.txt",
+      "PackagePath": "staticwebassets\\theme\\fonts\\flaticon\\backup.txt"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\fonts\\flaticon\\font\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\theme\\fonts\\flaticon\\font\\Flaticon.eot"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\fonts\\flaticon\\font\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\theme\\fonts\\flaticon\\font\\Flaticon.svg"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\fonts\\flaticon\\font\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\theme\\fonts\\flaticon\\font\\Flaticon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\fonts\\flaticon\\font\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\theme\\fonts\\flaticon\\font\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\fonts\\flaticon\\font\\Flaticon.woff2",
+      "PackagePath": "staticwebassets\\theme\\fonts\\flaticon\\font\\Flaticon.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\fonts\\flaticon\\font\\_flaticon.scss",
+      "PackagePath": "staticwebassets\\theme\\fonts\\flaticon\\font\\_flaticon.scss"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\fonts\\flaticon\\font\\flaticon.css",
+      "PackagePath": "staticwebassets\\theme\\fonts\\flaticon\\font\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\fonts\\flaticon\\font\\flaticon.html",
+      "PackagePath": "staticwebassets\\theme\\fonts\\flaticon\\font\\flaticon.html"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\fonts\\flaticon\\license\\license.pdf",
+      "PackagePath": "staticwebassets\\theme\\fonts\\flaticon\\license\\license.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\fonts\\icomoon\\Read Me.txt",
+      "PackagePath": "staticwebassets\\theme\\fonts\\icomoon\\Read Me.txt"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\fonts\\icomoon\\demo-files\\demo.css",
+      "PackagePath": "staticwebassets\\theme\\fonts\\icomoon\\demo-files\\demo.css"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\fonts\\icomoon\\demo-files\\demo.js",
+      "PackagePath": "staticwebassets\\theme\\fonts\\icomoon\\demo-files\\demo.js"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\fonts\\icomoon\\demo.html",
+      "PackagePath": "staticwebassets\\theme\\fonts\\icomoon\\demo.html"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\fonts\\icomoon\\fonts\\icomoon.eot",
+      "PackagePath": "staticwebassets\\theme\\fonts\\icomoon\\fonts\\icomoon.eot"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\fonts\\icomoon\\fonts\\icomoon.svg",
+      "PackagePath": "staticwebassets\\theme\\fonts\\icomoon\\fonts\\icomoon.svg"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\fonts\\icomoon\\fonts\\icomoon.ttf",
+      "PackagePath": "staticwebassets\\theme\\fonts\\icomoon\\fonts\\icomoon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\fonts\\icomoon\\fonts\\icomoon.woff",
+      "PackagePath": "staticwebassets\\theme\\fonts\\icomoon\\fonts\\icomoon.woff"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\fonts\\icomoon\\selection.json",
+      "PackagePath": "staticwebassets\\theme\\fonts\\icomoon\\selection.json"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\fonts\\icomoon\\style.css",
+      "PackagePath": "staticwebassets\\theme\\fonts\\icomoon\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\fonts\\index.html",
+      "PackagePath": "staticwebassets\\theme\\fonts\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\images\\books.jpg",
+      "PackagePath": "staticwebassets\\theme\\images\\books.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\images\\dreams.jpg",
+      "PackagePath": "staticwebassets\\theme\\images\\dreams.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\images\\events.jpg",
+      "PackagePath": "staticwebassets\\theme\\images\\events.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\images\\feelings.jpg",
+      "PackagePath": "staticwebassets\\theme\\images\\feelings.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\images\\gal_1.jpg",
+      "PackagePath": "staticwebassets\\theme\\images\\gal_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\images\\gal_2.jpg",
+      "PackagePath": "staticwebassets\\theme\\images\\gal_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\images\\gal_3.jpg",
+      "PackagePath": "staticwebassets\\theme\\images\\gal_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\images\\gal_4.jpg",
+      "PackagePath": "staticwebassets\\theme\\images\\gal_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\images\\gal_5.jpg",
+      "PackagePath": "staticwebassets\\theme\\images\\gal_5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\images\\gal_6.jpg",
+      "PackagePath": "staticwebassets\\theme\\images\\gal_6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\images\\hero-slider-1.jpg",
+      "PackagePath": "staticwebassets\\theme\\images\\hero-slider-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\images\\hero-slider-2.jpg",
+      "PackagePath": "staticwebassets\\theme\\images\\hero-slider-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\images\\hero-slider-3.jpg",
+      "PackagePath": "staticwebassets\\theme\\images\\hero-slider-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\images\\hero-slider-4.jpg",
+      "PackagePath": "staticwebassets\\theme\\images\\hero-slider-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\images\\hero-slider-5.jpg",
+      "PackagePath": "staticwebassets\\theme\\images\\hero-slider-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\images\\hero_1.jpg",
+      "PackagePath": "staticwebassets\\theme\\images\\hero_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\images\\img_1.jpg",
+      "PackagePath": "staticwebassets\\theme\\images\\img_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\images\\img_2.jpg",
+      "PackagePath": "staticwebassets\\theme\\images\\img_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\images\\img_3.jpg",
+      "PackagePath": "staticwebassets\\theme\\images\\img_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\images\\img_4.jpg",
+      "PackagePath": "staticwebassets\\theme\\images\\img_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\images\\index.html",
+      "PackagePath": "staticwebassets\\theme\\images\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\images\\person_1.jpg",
+      "PackagePath": "staticwebassets\\theme\\images\\person_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\images\\person_2.jpg",
+      "PackagePath": "staticwebassets\\theme\\images\\person_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\images\\person_3.jpg",
+      "PackagePath": "staticwebassets\\theme\\images\\person_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\images\\person_4.jpg",
+      "PackagePath": "staticwebassets\\theme\\images\\person_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\images\\slider-1.jpg",
+      "PackagePath": "staticwebassets\\theme\\images\\slider-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\images\\slider-2.jpg",
+      "PackagePath": "staticwebassets\\theme\\images\\slider-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\images\\slider-3.jpg",
+      "PackagePath": "staticwebassets\\theme\\images\\slider-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\images\\slider-4.jpg",
+      "PackagePath": "staticwebassets\\theme\\images\\slider-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\images\\slider-5.jpg",
+      "PackagePath": "staticwebassets\\theme\\images\\slider-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\images\\slider_1.jpg",
+      "PackagePath": "staticwebassets\\theme\\images\\slider_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\images\\slider_2.jpg",
+      "PackagePath": "staticwebassets\\theme\\images\\slider_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\images\\slider_3.jpg",
+      "PackagePath": "staticwebassets\\theme\\images\\slider_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\images\\stories.jpg",
+      "PackagePath": "staticwebassets\\theme\\images\\stories.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\js\\aos.js",
+      "PackagePath": "staticwebassets\\theme\\js\\aos.js"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\theme\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\js\\custom.js",
+      "PackagePath": "staticwebassets\\theme\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\js\\daterangepicker.js",
+      "PackagePath": "staticwebassets\\theme\\js\\daterangepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\js\\index.html",
+      "PackagePath": "staticwebassets\\theme\\js\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\js\\jarallax.min.js",
+      "PackagePath": "staticwebassets\\theme\\js\\jarallax.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\js\\jquery-3.4.1.min.js",
+      "PackagePath": "staticwebassets\\theme\\js\\jquery-3.4.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\js\\jquery.animateNumber.min.js",
+      "PackagePath": "staticwebassets\\theme\\js\\jquery.animateNumber.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\js\\jquery.fancybox.min.js",
+      "PackagePath": "staticwebassets\\theme\\js\\jquery.fancybox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\js\\jquery.waypoints.min.js",
+      "PackagePath": "staticwebassets\\theme\\js\\jquery.waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\theme\\js\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\theme\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\theme\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\js\\typed.js",
+      "PackagePath": "staticwebassets\\theme\\js\\typed.js"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\prepros-6.config",
+      "PackagePath": "staticwebassets\\theme\\prepros-6.config"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\theme\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\theme\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\scss\\_site-base.scss",
+      "PackagePath": "staticwebassets\\theme\\scss\\_site-base.scss"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\scss\\_site-blocks.scss",
+      "PackagePath": "staticwebassets\\theme\\scss\\_site-blocks.scss"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\scss\\_site-elements.scss",
+      "PackagePath": "staticwebassets\\theme\\scss\\_site-elements.scss"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\scss\\_site-footer.scss",
+      "PackagePath": "staticwebassets\\theme\\scss\\_site-footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\scss\\_site-navbar.scss",
+      "PackagePath": "staticwebassets\\theme\\scss\\_site-navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\theme\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\scss\\index.html",
+      "PackagePath": "staticwebassets\\theme\\scss\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\theme\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\scss\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\theme\\scss\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\scss\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\theme\\scss\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\theme\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\theme\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\theme\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\theme\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\theme\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\theme\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\theme\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\scss\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\theme\\scss\\mixins\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\theme\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\theme\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\scss\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\theme\\scss\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\theme\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\scss\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\theme\\scss\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\theme\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\theme\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\theme\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\scss\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\theme\\scss\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\theme\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\theme\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\theme\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\scss\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\theme\\scss\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\scss\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\theme\\scss\\mixins\\_size.scss"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\scss\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\theme\\scss\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\scss\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\theme\\scss\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\scss\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\theme\\scss\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\theme\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\theme\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\scss\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\theme\\scss\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\theme\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\theme\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\Olivian\\source\\repos\\ElizaPuscasu\\ElizaPuscasu\\wwwroot\\theme\\tour-thumb-min.jpg",
+      "PackagePath": "staticwebassets\\theme\\tour-thumb-min.jpg"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.ElizaPuscasu.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.build.ElizaPuscasu.props",
+      "PackagePath": "build\\ElizaPuscasu.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ElizaPuscasu.props",
+      "PackagePath": "buildMultiTargeting\\ElizaPuscasu.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildTransitive.ElizaPuscasu.props",
+      "PackagePath": "buildTransitive\\ElizaPuscasu.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

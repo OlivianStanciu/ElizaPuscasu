@@ -1,0 +1,234 @@
+﻿@using ElizaPuscasu.Models.Pages
+
+@model IndexPageModel
+
+@{
+	ViewData["Title"] = "Acasă";
+}
+
+<div class="hero">
+	<div class="container">
+		<div class="row align-items-center">
+			<div class="col-lg-7">
+				<div class="intro-wrap">
+					<h1 class="mb-5">
+						<span class="d-block">@Model.SectionOne.Title</span>@Model.SectionOne.SecondTitle<span class="typed-words"></span>
+					</h1>
+
+					<div class="row">
+						<div class="col-10">
+							<form class="form">
+								<div class="row mb-2">
+									<input type="text" class="form-control" placeholder="...">
+								</div>    
+								<div class="row align-items-center">
+									<input type="submit" class="btn btn-primary btn-block" value="Caută">
+								</div>
+							</form>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-5">
+				<div class="slides">
+					@foreach (var sectionOneComponent in Model.SectionOne.SectionOneComponents)
+					{
+						<img src="@sectionOneComponent.PictureUrl" alt="Image" class="img-fluid active" style="object-fit:fill">
+					}
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+<div class="untree_co-section">
+	<div class="container">
+		<div class="row mb-5 justify-content-center">
+			<div class="col-lg-6 text-center">
+				<h2 class="section-title text-center mb-3">@Model.SectionTwo.Title</h2>
+				<p>@Model.SectionTwo.Description</p>
+			</div>
+		</div>
+		<div class="row align-items-stretch">
+			<div class="col-lg-4 order-lg-1">
+				<div class="h-100">
+					<div class="frame h-100">
+						<div class="feature-img-bg h-100">
+							<img src="~/img/home/index/poza_sub_descriere.jpg" alt="Image" class="img-fluid" style="object-fit:fill">
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-6 col-sm-6 col-lg-4 feature-1-wrap d-md-flex flex-md-column order-lg-1" >
+				<div class="feature-1 d-md-flex">
+					<div class="align-self-center">
+						<img src="@Model.SectionTwo.SectionTwoComponents[0].IconUrl" alt="Image" class="img-fluid" style="object-fit:fill">
+						<h3>@Model.SectionTwo.SectionTwoComponents[0].Title</h3>
+						<p class="mb-0">@Model.SectionTwo.SectionTwoComponents[0].Description</p>
+					</div>
+				</div>
+
+				<div class="feature-1 d-md-flex">
+					<div class="align-self-center">
+						<img src="@Model.SectionTwo.SectionTwoComponents[1].IconUrl" alt="Image" class="img-fluid" style="object-fit:fill">
+						<h3>@Model.SectionTwo.SectionTwoComponents[1].Title</h3>
+						<p class="mb-0">@Model.SectionTwo.SectionTwoComponents[1].Description</p>
+					</div>
+				</div>
+
+			</div>
+
+			<div class="col-6 col-sm-6 col-lg-4 feature-1-wrap d-md-flex flex-md-column order-lg-3" >
+
+				<div class="feature-1 d-md-flex">
+					<div class="align-self-center">
+						<img src="@Model.SectionTwo.SectionTwoComponents[2].IconUrl" alt="Image" class="img-fluid" style="object-fit:fill">
+						<h3>@Model.SectionTwo.SectionTwoComponents[2].Title</h3>
+						<p class="mb-0">@Model.SectionTwo.SectionTwoComponents[2].Description</p>
+					</div>
+				</div>
+
+				<div class="feature-1 d-md-flex">
+					<div class="align-self-center">
+						<img src="@Model.SectionTwo.SectionTwoComponents[3].IconUrl" alt="Image" class="img-fluid" style="object-fit:fill">
+						<h3>@Model.SectionTwo.SectionTwoComponents[3].Title</h3>
+						<p class="mb-0">@Model.SectionTwo.SectionTwoComponents[3].Description</p>
+					</div>
+				</div>
+
+			</div>
+
+		</div>
+	</div>
+</div>
+
+
+<div class="untree_co-section">
+	<div class="container">
+		<div class="row text-center justify-content-center mb-5">
+			<div class="col-lg-7"><h2 class="section-title text-center">@Model.SectionThree.Title</h2></div>
+		</div>
+
+		<div class="owl-carousel owl-3-slider">
+
+			@foreach (var sectionThreeComponent in Model.SectionThree.SectionThreeComponents)
+			{
+				<div class="item">
+					<a class="media-thumb" href="@sectionThreeComponent.PictureUrl" data-fancybox="gallery">
+						<div class="media-text">
+							<h3>@sectionThreeComponent.Title</h3>
+							<span class="location">@sectionThreeComponent.Description</span>
+						</div>
+						<img src="@sectionThreeComponent.PictureUrl" alt="Image" class="img-fluid" style="object-fit:fill">
+					</a>
+				</div>
+			}
+		</div>
+	</div>
+</div>
+
+
+<div class="untree_co-section testimonial-section mt-5">
+	<div class="container">
+		<div class="row justify-content-center">
+			<div class="col-lg-7 text-center">
+				<h2 class="section-title text-center mb-5">@Model.SectionFour.Title	</h2>
+
+				<div class="owl-single owl-carousel no-nav">
+					@foreach (var sectionFourComponent in Model.SectionFour.SectionFourComponents)
+					{
+						<div class="testimonial mx-auto">
+							<figure class="img-wrap">
+								<img src="@sectionFourComponent.PictureUrl" alt="Image" class="img-fluid">
+							</figure>
+							<h3 class="name">@sectionFourComponent.Title</h3>
+							<blockquote>
+								<p>&ldquo;
+									@sectionFourComponent.Description
+								&rdquo;</p>
+							</blockquote>
+						</div>
+					}
+				</div>
+
+			</div>
+		</div>
+	</div>
+</div>
+
+
+<div class="untree_co-section">
+	<div class="container">
+		<div class="row justify-content-center text-center mb-5">
+			<div class="col-lg-6">
+				<h2 class="section-title text-center mb-3">@Model.SectionFive.Title</h2>
+			</div>
+		</div>
+		<div class="row">
+			@foreach(var sectionFixeComponent in Model.SectionFive.SectionFiveComponents)
+			{
+				<div class="col-6 col-sm-6 col-md-6 col-lg-3 mb-4 mb-lg-0">
+					<div class="media-1">
+						<a href="#" class="d-block mb-3"><img src="@sectionFixeComponent.PictureUrl" alt="Image" class="img-fluid"></a>
+						<span class="d-flex align-items-center loc mb-2">
+							<span class="icon-room mr-3"></span>
+							<span>@sectionFixeComponent.Title</span>
+						</span>
+						<div class="d-flex align-items-center">
+							<div>
+								<h3><a href="#">@sectionFixeComponent.Description</a></h3>
+								<div class="price ml-auto">
+									<span>@sectionFixeComponent.SecondDescription</span>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			}
+		</div>
+	</div>
+</div>
+
+<div class="untree_co-section">
+	<div class="container">
+		<div class="row justify-content-between align-items-center">
+				
+			<div class="col-lg-6">
+				<figure class="img-play-video">
+					<a id="play-video" class="video-play-button" href="@Model.SectionSix.VideoUrl" data-fancybox>
+						<span></span>
+					</a>
+					<img src="~/theme/images/hero-slider-2.jpg" alt="Image" class="img-fluid rounded-20">
+				</figure>
+			</div>
+
+			<div class="col-lg-5">
+				<h2 class="section-title text-left mb-4">@Model.SectionSix.Title</h2>
+				@foreach (var sectionSixDescParagraph in Model.SectionSix.DescriptionParagraphs)
+				{
+					<p>@sectionSixDescParagraph</p>
+				}
+
+				<ul class="list-unstyled two-col clearfix">
+					@foreach (var sectionSixBulletPoint in Model.SectionSix.BulletPointList)
+					{
+						<li>@sectionSixBulletPoint</li>
+					}
+				</ul>
+
+				<p><a href="#" class="btn btn-primary">Get Started</a></p>
+
+					
+			</div>
+		</div>
+	</div>
+</div>
+
+<div id="overlayer"></div>
+<div class="loader">
+	<div class="spinner-border" role="status">
+		<span class="sr-only">Loading...</span>
+	</div>
+</div>
